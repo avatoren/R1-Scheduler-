@@ -1,3 +1,3 @@
-Step 1
-Step 2
-Step 3
+
+Enable a user to identify when people in the file have overlapping periods, and then, perhaps, to allow them to select periods and students in those periods. 
+If the user contains the same meeting time as another user than they can be grouped together, which means they are overlapped. Once the groups are organized by who has the same meeting periods (there will be a list of first and last names) , students have the opportunity to then choose which period they want to meet which will vary among themselves. By having access to the sorted list of names under each period, this gives the students the freedom to create their own schedule and the people they want to surround themselves with. 
